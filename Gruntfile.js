@@ -24,7 +24,7 @@ module.exports = function(grunt) {
   });
   
   grunt.registerTask('build', ['livescript']);
-  grunt.registerTask('test', ['build', 'jshint', 'jsonlint', 'zshlint-test']);
+  grunt.registerTask('test', ['jshint', 'jsonlint', 'zshlint-test']);
   
   grunt.loadTasks('tasks');
   grunt.loadTasks('test/tasks');

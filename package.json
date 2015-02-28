@@ -9,6 +9,7 @@
   ],
   "scripts": {
     "test": "grunt test",
+    "build": "grunt build",
     "postinstall": "lsc -c tasks/zshlint.ls"
   },
   "keywords": [
