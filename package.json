@@ -12,6 +12,14 @@
     "build": "grunt build",
     "postinstall": "lsc -c tasks/zshlint.ls"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pine613/grunt-zshlint"
+  },
+  "bugs": {
+    "url": "https://github.com/pine613/grunt-zshlint/issues"
+  },
+  "homepage": "https://github.com/pine613/grunt-zshlint",
   "keywords": [
     "gruntplugin"
   ],
