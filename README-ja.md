@@ -24,7 +24,7 @@ $ npm install grunt-zshlint --save-dev
 ```js
 grunt.initConfig({
   zshlint: {
-   files: ['**/*.zsh']
+    files: ['**/*.zsh']
   }
 });
 
