@@ -1,0 +1,1 @@
+echo "zsh valid script"
