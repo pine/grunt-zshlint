@@ -10,3 +10,7 @@ before_install:
 
 before_script:
   - npm run build
+
+notifications:
+  slack:
+    secure: "MblL5XDr5JqmnyHf7sx3VzEO8UzQYj7AGmzojx/mApycokGxr38M/+Wkw9xmLpvsO7rmSETfJUY0nZ9cKVBR7D22zCb4x0VQ8B7UflJYtsvN8V+F0zwCaOM2Kop6uyWssh/oX2y4FC3weX0JO/MKVOSKNbbsqcwC/NJb8sDwGPM="
