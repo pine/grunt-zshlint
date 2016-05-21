@@ -39,5 +39,4 @@ grunt.loadNpmTasks('grunt-zshlint');
 `true` を設定した場合、エラーが発生した場合でもタスクを途中で終了しません。
 
 ## ライセンス
-MIT ライセンス<br />
-Copyright (c) 2015 Pine Mizune
+MIT ライセンス

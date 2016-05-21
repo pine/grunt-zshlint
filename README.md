@@ -39,5 +39,4 @@ Type: `Boolean` Default value: `false`
 Set force to true to report errors but not fail the task.
 
 ## License
-MIT License<br />
-Copyright (c) 2015 Pine Mizune
+MIT License
