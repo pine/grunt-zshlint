@@ -2,9 +2,9 @@ grunt-zshlint
 -------------
 
 [![npm version](https://badge.fury.io/js/grunt-zshlint.svg)](http://badge.fury.io/js/grunt-zshlint)
-[![Build Status](https://travis-ci.org/pine613/grunt-zshlint.svg?branch=master)](https://travis-ci.org/pine613/grunt-zshlint)
-[![Dependency Status](https://david-dm.org/pine613/grunt-zshlint.svg)](https://david-dm.org/pine613/grunt-zshlint)
-[![devDependency Status](https://david-dm.org/pine613/grunt-zshlint/dev-status.svg)](https://david-dm.org/pine613/grunt-zshlint#info=devDependencies)
+[![Build Status](https://travis-ci.org/pine/grunt-zshlint.svg?branch=master)](https://travis-ci.org/pine/grunt-zshlint)
+[![Dependency Status](https://david-dm.org/pine/grunt-zshlint.svg)](https://david-dm.org/pine/grunt-zshlint)
+[![devDependency Status](https://david-dm.org/pine/grunt-zshlint/dev-status.svg)](https://david-dm.org/pine/grunt-zshlint#info=devDependencies)
 
 English | [日本語](README-ja.md)
 

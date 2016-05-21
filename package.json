@@ -14,19 +14,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pine613/grunt-zshlint"
+    "url": "https://github.com/pine/grunt-zshlint"
   },
   "bugs": {
-    "url": "https://github.com/pine613/grunt-zshlint/issues"
+    "url": "https://github.com/pine/grunt-zshlint/issues"
   },
-  "homepage": "https://github.com/pine613/grunt-zshlint",
+  "homepage": "https://github.com/pine/grunt-zshlint",
   "keywords": [
     "gruntplugin"
   ],
   "author": {
     "name": "Pine Mizune",
     "email": "pinemz@gmail.com",
-    "url": "https://github.com/pine613"
+    "url": "https://github.com/pine"
   },
   "license": "MIT",
   "devDependencies": {
