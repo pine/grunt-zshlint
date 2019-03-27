@@ -4,7 +4,7 @@ grunt-zshlint
 [![npm version](https://img.shields.io/npm/v/grunt-zshlint.svg?style=flat-square)](https://www.npmjs.com/package/grunt-zshlint)
 [![Build Status](http://img.shields.io/travis/pine/grunt-zshlint/master.svg?style=flat-square)](https://travis-ci.org/pine/grunt-zshlint)
 [![Dependency Status](https://img.shields.io/david/pine/grunt-zshlint.svg?style=flat-square)](https://david-dm.org/pine/grunt-zshlint)
-[![devDependency Status](https://img.shields.io/david/dev/pine/grunt-zshlint.svg?style=flat-square)](https://david-dm.org/pine/grunt-zshlint#info=devDependencies)
+[![devDependency Status](https://img.shields.io/david/dev/pine/grunt-zshlint.svg?style=flat-square)](https://david-dm.org/pine/grunt-zshlint#info=devDependencies) [![Greenkeeper badge](https://badges.greenkeeper.io/pine/grunt-zshlint.svg)](https://greenkeeper.io/)
 
 English | [日本語](README-ja.md)
 
